@@ -1,0 +1,6 @@
+rootProject.name = 'openexchange-logicstic-sandbox'
+
+include 'waybill-haulage-protocol'
+include 'waybill-haulage-spring-cloud-application'
+include 'waybill-haulage-eventsource'
+

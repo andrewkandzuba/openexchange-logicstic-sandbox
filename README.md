@@ -1,2 +1,23 @@
-# openexchange-logicstic-sandbox
-The sandbox dedicated to technologies and tools evaluation for logistic and transportation domain
+Project name:
+===
+
+Description:
+===
+
+Table of Contents:
+===
+
+Installation:
+===
+
+Usage:
+===
+
+Contributing:
+===
+
+Credits:
+===
+
+License:
+===
